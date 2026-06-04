@@ -12,10 +12,6 @@ Whether you're exploring AI agents for the first time or learning advanced multi
 
 The example below demonstrates a memory-enabled agent that recalls user preferences and generates personalized travel recommendations using Google ADK.
 
-> Save the image as:
->
-> `screenshots/memory_agent_demo.png`
-
 ![Memory Agent Demo](screenshots/memory_agent_demo.png)
 
 ---
